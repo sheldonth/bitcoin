@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38746295-7D64-47E3-9131-F9E0900A67E0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bitcoind</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B21DAA9F-0FE3-412C-A5D1-6C9CDDB8C728</key>
+		<string>https://github.com/sheldonth/bitcoin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bitcoind/bitcoind.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B21DAA9F-0FE3-412C-A5D1-6C9CDDB8C728</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sheldonth/bitcoin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B21DAA9F-0FE3-412C-A5D1-6C9CDDB8C728</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B21DAA9F-0FE3-412C-A5D1-6C9CDDB8C728</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bitcoin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
